@@ -90,6 +90,20 @@ python main.py
 7. Lihat hasil sebelum/sesudah dan histogram.
 8. Simpan hasil akhir ke file PNG.
 
+## Penjelasan Gambar
+
+### 1) `dataset-card.jpg`
+
+Gambar ini berfungsi sebagai kartu ringkas dataset/eksperimen yang digunakan pada proyek. Tujuannya untuk memberi gambaran cepat mengenai konteks data uji yang dipakai saat demonstrasi peningkatan mutu citra.
+
+![Dataset Card](dataset-card.jpg)
+
+### 2) `hasil_pengolahan_daun.png`
+
+Gambar ini adalah contoh hasil pemrosesan dari aplikasi setelah metode peningkatan mutu citra diterapkan. File ini menunjukkan output akhir yang dapat disimpan oleh pengguna dari aplikasi.
+
+![Hasil Pengolahan Daun](hasil_pengolahan_daun.png)
+
 ## Troubleshooting
 
 - **Perintah `streamlit` tidak dikenali**
